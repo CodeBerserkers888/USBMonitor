@@ -1,21 +1,45 @@
                   
  
-<h1 align="center" style="font-weight: bold;">USBMoniitor 💻</h1>
+<h1 align="center" style="font-weight: bold;">USBMonitor 💻</h1>
 
 <p align="center">
-<a href="#tech">Technologies</a>
-<a href="#started">Getting Started</a>
-<a href="#colab">Collaborators</a>
+<a href="#technologies">Technologies</a>
+<a href="#getting-started">Getting Started</a>
+<a href="#collaborators">Collaborators</a>
 <a href="#contribute">Contribute</a> 
 </p>
 
-
-<p align="center">Simple description of what your project do or how to use it</p>
-
+<p align="center">
+USBMonitor is a powerful tool designed to monitor and log USB device connections on both Windows and macOS. It helps you keep track of all USB devices that are connected to your system, providing you with detailed logs and notifications.
+</p>
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/CodeBerserkers888/USBMonitor">📱 Visit this Project</a>
 </p>
+
+![Static Badge](https://img.shields.io/badge/DefensePayload-AntyBadUSB-green)
+![GitHub Release Date](https://github.com/CodeBerserkers888/USBMonitor)
+
+<img src="sandbox:/mnt/data/usb_monitor_logo.png" alt="USBMonitor Logo" width="200px" align="center">
+
+## Technologies <a name="technologies"></a>
+- .NET Core
+- LibUsbDotNet
+- GtkSharp (for GUI)
+- System.Management (for Windows-specific operations)
+
+## Getting Started <a name="getting-started"></a>
+### Prerequisites
+- .NET Core SDK
+- LibUsbDotNet library
+- GtkSharp library
+
+### Installation
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Bulli77/AntyPayload-SecureProcessMonitor.git
+   cd AntyPayload-SecureProcessMonitor
+
  
 <h2 id="layout">🎨 Layout</h2>
 
