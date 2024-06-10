@@ -18,7 +18,7 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
 ![Static Badge](https://img.shields.io/badge/DefensePayload-AntyBadUSB-green)
 ![GitHub Release Date](https://img.shields.io/github/release-date/CodeBerserkers888/USBMonitor)
 
-<img src="usb_monitor_logo.png" alt="USBMonitor Logo" width="200px" align="center">
+<img src="https://imgur.com/m1bBY5W" alt="USBMonitor Logo" width="200px" align="center">
 
 ## Technologies <a name="technologies"></a>
 - .NET Core
