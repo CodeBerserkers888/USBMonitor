@@ -39,8 +39,21 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
    cd USBMonitor
 
 ### Install dependencies:
-
 ```sh
 dotnet add package LibUsbDotNet
 dotnet add package GtkSharp
 dotnet add package System.Management
+
+### Build the project:
+
+```sh
+Copy kod
+dotnet build
+Run the project:
+
+```sh
+Copy kod
+dotnet run
+
+
+
