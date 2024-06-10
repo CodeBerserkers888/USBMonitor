@@ -44,16 +44,6 @@ dotnet add package LibUsbDotNet
 dotnet add package GtkSharp
 dotnet add package System.Management
 
-### Build the project:
-
-```sh
-Copy kod
-dotnet build
-Run the project:
-
-```sh
-Copy kod
-dotnet run
 
 
 
