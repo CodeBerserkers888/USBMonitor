@@ -22,30 +22,5 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
   <img src="UsbMonitor-Logo.jpg" alt="USBMonitor Logo" width="200px">
 </p>
 
-## Technologies <a name="technologies"></a>
-- .NET Core
-- LibUsbDotNet
-- GtkSharp (for GUI)
-- System.Management (for Windows-specific operations)
-
-## Getting Started <a name="getting-started"></a>
-### Prerequisites
-- .NET Core SDK
-- LibUsbDotNet library
-- GtkSharp library
-
-### Installation
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/CodeBerserkers888/USBMonitor.git
-   cd USBMonitor
-
-### Install dependencies:
-```sh
-dotnet add package LibUsbDotNet
-dotnet add package GtkSharp
-dotnet add package System.Management
-
-
-
-
+## Project Description
+USBMonitor is a powerful tool designed to monitor and log USB device connections on both Windows and macOS. It helps you keep track of all USB devices that are connected to your system, providing you with detailed logs and notifications.
