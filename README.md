@@ -1,4 +1,3 @@
-                  
 <h1 align="center" style="font-weight: bold;">USBMonitor 💻</h1>
 
 <p align="center">
@@ -17,9 +16,9 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
 </p>
 
 ![Static Badge](https://img.shields.io/badge/DefensePayload-AntyBadUSB-green)
-![GitHub Release Date](https://github.com/CodeBerserkers888/USBMonitor)
+![GitHub Release Date](https://img.shields.io/github/release-date/CodeBerserkers888/USBMonitor)
 
-<img src="sandbox:/mnt/data/usb_monitor_logo.png" alt="USBMonitor Logo" width="200px" align="center">
+<img src="usb_monitor_logo.png" alt="USBMonitor Logo" width="200px" align="center">
 
 ## Technologies <a name="technologies"></a>
 - .NET Core
@@ -36,7 +35,12 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Bulli77/AntyPayload-SecureProcessMonitor.git
-   cd AntyPayload-SecureProcessMonitor
+   git clone https://github.com/CodeBerserkers888/USBMonitor.git
+   cd USBMonitor
 
- 
+### Install dependencies:
+
+```sh
+dotnet add package LibUsbDotNet
+dotnet add package GtkSharp
+dotnet add package System.Management
