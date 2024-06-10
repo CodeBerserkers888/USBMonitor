@@ -1,0 +1,2 @@
+10.06.2024 08:39:44 - Started USB monitoring.
+10.06.2024 08:51:32 - Started USB monitoring.

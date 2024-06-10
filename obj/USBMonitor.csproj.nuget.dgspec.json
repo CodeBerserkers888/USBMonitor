@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vikingtoolsworkshop/Desktop/Dysk/GITHUB/USBMonitor/USBMonitor.csproj": {}
+  },
+  "projects": {
+    "/Users/vikingtoolsworkshop/Desktop/Dysk/GITHUB/USBMonitor/USBMonitor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vikingtoolsworkshop/Desktop/Dysk/GITHUB/USBMonitor/USBMonitor.csproj",
+        "projectName": "USBMonitor",
+        "projectPath": "/Users/vikingtoolsworkshop/Desktop/Dysk/GITHUB/USBMonitor/USBMonitor.csproj",
+        "packagesPath": "/Users/vikingtoolsworkshop/.nuget/packages/",
+        "outputPath": "/Users/vikingtoolsworkshop/Desktop/Dysk/GITHUB/USBMonitor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vikingtoolsworkshop/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "GtkSharp": {
+              "target": "Package",
+              "version": "[3.24.24.95, )"
+            },
+            "LibUsbDotNet": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
