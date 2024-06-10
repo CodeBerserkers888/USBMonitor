@@ -19,7 +19,7 @@ USBMonitor is a powerful tool designed to monitor and log USB device connections
 ![GitHub Release Date](https://img.shields.io/github/release-date/CodeBerserkers888/USBMonitor)
 
 <p align="center">
-  <img src="assets/UsbMonitor-Logo.jpg" alt="USBMonitor Logo" width="200px">
+  <img src="UsbMonitor-Logo.jpg" alt="USBMonitor Logo" width="200px">
 </p>
 
 ## Technologies <a name="technologies"></a>
