@@ -1,0 +1,28 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore NuGet packages folder
+*.nupkg
+*.snupkg
+packages/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+*.localhistory
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.cache
+*.csproj.user
+*.pidb
