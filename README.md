@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">USBMonitor </h1>
 
 <p align="center">
-  <img src="UsbMonitor-Logo.jpg" alt="USBMonitor Logo" width="200px">
+  <img src="logousbm.png" alt="USBMonitor Logo" width="200px">
 </p>
 
 
