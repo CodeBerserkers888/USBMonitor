@@ -1,9 +1,8 @@
 <h1 align="center" style="font-weight: bold;">GOTCHAi </h1>
 
 <p align="center">
-  <img src="https://zapodaj.net/images/dacef69c5b1bf.jpg" alt="GOTCHAi" width="200px">
+  <img src="logousbm.png" alt="USBMonitor Logo" width="200px">
 </p>
-
 
 
 <p id="description">USBMonitor is a powerful tool designed to monitor and log USB device connections on both Windows and macOS. It helps you keep track of all USB devices that are connected to your system providing you with detailed logs and notifications.</p>
