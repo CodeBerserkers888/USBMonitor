@@ -1,7 +1,7 @@
-<h1 align="center" style="font-weight: bold;">USBMonitor </h1>
+<h1 align="center" style="font-weight: bold;">GOTCHAi </h1>
 
 <p align="center">
-  <img src="logousbm.png" alt="USBMonitor Logo" width="200px">
+  <img src="https://zapodaj.net/images/dacef69c5b1bf.jpg" alt="GOTCHAi" width="200px">
 </p>
 
 
