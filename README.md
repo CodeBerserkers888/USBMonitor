@@ -197,6 +197,6 @@ This project is protected under the MIT License
 
 - List any resources, contributors, inspiration, etc. here.
 
-[**Return**](#-quick-links)
+[**Sponsors**](#-quick-links)
 
----
+[![Buy me a CodeCoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20CodeCoffee&emoji=☕&slug=codeberserker&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codeberserker)
